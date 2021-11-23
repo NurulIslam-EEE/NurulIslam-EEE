@@ -1,4 +1,4 @@
-### Hi there 👋, Nurul Islam
+### Hi I'm, Nurul Islam
 #### MERN Stack Developer
 
 
