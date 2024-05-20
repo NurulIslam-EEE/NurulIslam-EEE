@@ -1,5 +1,5 @@
 # Hi I'm, Nurul Islam
-#### MERN Stack Developer
+#### Full Stack Developer
 
 
 
