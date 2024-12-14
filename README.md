@@ -46,12 +46,12 @@
 <h3 align="left">📈 My Github History </h3>
 <hr/>
 
-<div align="left">
+<!--<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
-</div>
+</div> --> 
 
-<div align="left">
+<div align="center">
   <img height=220  src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=compact&langs_count=6&theme=dracula&hide_border=false" />
 
   <img height=220  src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
