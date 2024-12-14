@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋%20I'm%20Nurul%20Islam&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there👋%20I'm%20Nurul%20Islam&fontSize=40)
 
 <!--# Hi there 👋 I'm, Nurul Islam
 #### Full Stack Developer -->
