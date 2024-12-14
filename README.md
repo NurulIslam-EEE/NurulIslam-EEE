@@ -5,7 +5,7 @@
 
 
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <hr/>
 
 ###
@@ -42,7 +42,8 @@
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NurulIslam-EEE)  --> 
 
-<p align="left"> 📈 My github history </p>
+
+<h3 align="left">📈 My Github History </h3>
 <hr/>
 
 <div align="left">
