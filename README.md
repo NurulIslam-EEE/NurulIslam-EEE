@@ -58,8 +58,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NurulIslam-EEE)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NurulIslam-EEE)  
-![Snake animation](https://github.com/NurulIslam-EEE/NurulIslam-EEE/blob/output/github-contribution-grid-snake.svg)
-
 
 ###
 
