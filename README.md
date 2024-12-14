@@ -1,9 +1,12 @@
-# Hi there 👋 I'm, Nurul Islam
-#### Full Stack Developer
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋%20I'm%20Nurul%20Islam&fontSize=90)
+
+<!--# Hi there 👋 I'm, Nurul Islam
+#### Full Stack Developer -->
 
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
+
 
 <p align="left">
   <a href="https://skillicons.dev">
