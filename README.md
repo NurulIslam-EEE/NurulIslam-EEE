@@ -16,8 +16,7 @@
   </a>
 </p>
 
-<h3 align="left">![image](https://github.com/user-attachments/assets/e1f619b5-b723-416e-8e8b-6aac31bec2d2)
- Connect with me</h3>
+<h3 align="left">🎯Connect with me</h3>
 <hr/>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
