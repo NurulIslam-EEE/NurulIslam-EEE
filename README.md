@@ -71,7 +71,9 @@
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true)-->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=NurulIslam-EEE)  
+[![Nurul Islam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurulIslam-EEE&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--!![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=NurulIslam-EEE) --> 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NurulIslam-EEE)  
 
