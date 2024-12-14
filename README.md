@@ -51,10 +51,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
 </div> --> 
 
-<div align="center">
-  <img height=220  src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=compact&langs_count=6&theme=dracula&hide_border=false" />
+<div align="left">
+  <img height=120  src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=compact&langs_count=6&theme=dracula&hide_border=false" />
 
-  <img height=220  src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img height=120  src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
 </div>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE&layout=pie)](https://github.com/NurulIslam-EEE/github-readme-stats) -->
