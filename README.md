@@ -45,7 +45,14 @@
   <img height=320 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=pie&langs_count=6&card_width=320" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&card_width=320" />
+  <img height=320 align="center" src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurulIslam-EEE&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurulIslam-EEE&repo=convoychat" />
 </a>
 
 
@@ -53,7 +60,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE)](https://github.com/NurulIslam-EEE/github-readme-stats)--> 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true)  
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true)  <!--
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NurulIslam-EEE)  
 
