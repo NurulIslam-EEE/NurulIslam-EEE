@@ -49,7 +49,7 @@
 </a>
 
 
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NurulIslam-EEE)]
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE&layout=pie)](https://github.com/NurulIslam-EEE/github-readme-stats) -->
 
