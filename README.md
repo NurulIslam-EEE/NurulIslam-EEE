@@ -48,12 +48,7 @@
   <img height=320 align="center" src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&card_width=320" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurulIslam-EEE&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NurulIslam-EEE&repo=convoychat" />
-</a>
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE&layout=pie)](https://github.com/NurulIslam-EEE/github-readme-stats) -->
