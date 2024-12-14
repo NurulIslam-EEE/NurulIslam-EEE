@@ -60,3 +60,12 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NurulIslam-EEE)  
 ![Snake animation](https://github.com/NurulIslam-EEE/NurulIslam-EEE/blob/output/github-contribution-grid-snake.svg)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
