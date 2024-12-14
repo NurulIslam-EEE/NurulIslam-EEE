@@ -42,10 +42,9 @@
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NurulIslam-EEE)  --> 
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a align="center" href="https://github.com/anuraghazra/convoychat](https://github.com/NurulIslam-EEE">
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=compact&langs_count=6" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&show_icons=true" />
 </a>
 
