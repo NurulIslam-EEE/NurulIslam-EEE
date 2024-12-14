@@ -41,6 +41,14 @@
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NurulIslam-EEE)  --> 
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NurulIslam-EEE&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NurulIslam-EEE&layout=pie" />
+</a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE&layout=pie)](https://github.com/NurulIslam-EEE/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurulIslam-EEE)](https://github.com/NurulIslam-EEE/github-readme-stats)--> 
