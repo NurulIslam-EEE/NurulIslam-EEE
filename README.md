@@ -28,8 +28,9 @@
 <h3 align="left">✒️ Recent Posts</h3>
 <hr/>
 <ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_promise-activity-7266470765233881088-NF4p?utm_source=share&utm_medium=member_desktop"> JavaScript Promises </a></li>
-<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_reactjs-javascript-webdevelopement-activity-7217634348328443904-oCe8?utm_source=share&utm_medium=member_desktop"> Using the useRef Hook in React</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_zod-validation-activity-7262061641268117504-sjPy?utm_source=share&utm_medium=member_desktop">🚀 𝐇𝐚𝐫𝐧𝐞𝐬𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐏𝐨𝐰𝐞𝐫 𝐨𝐟 𝐙𝐨𝐝 𝐟𝐨𝐫 𝐕𝐚𝐥𝐢𝐝𝐚𝐭𝐢𝐨𝐧🚀</a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_promise-activity-7266470765233881088-NF4p?utm_source=share&utm_medium=member_desktop"> JavaScript Promises  🌟 </a></li>
+<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_reactjs-javascript-webdevelopement-activity-7217634348328443904-oCe8?utm_source=share&utm_medium=member_desktop">## Using the useRef Hook in React</a></li>
 </ul>
 
 <!-- <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
