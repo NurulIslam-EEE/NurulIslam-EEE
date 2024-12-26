@@ -26,7 +26,9 @@
 </div>
 
 <h3 align="left">✒️ Recent Posts</h3>
+<hr/>
 <ul>
+<li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_promise-activity-7266470765233881088-NF4p?utm_source=share&utm_medium=member_desktop"> JavaScript Promises </a></li>
 <li><a target="_blank" href="https://www.linkedin.com/posts/nurul-islam-4a592a216_reactjs-javascript-webdevelopement-activity-7217634348328443904-oCe8?utm_source=share&utm_medium=member_desktop"> Using the useRef Hook in React</a></li>
 </ul>
 
