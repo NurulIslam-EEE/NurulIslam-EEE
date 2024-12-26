@@ -18,7 +18,7 @@
 
 <h3 align="left">🎯Connect with me</h3>
 <hr/>
-<div align="left">
+<div align="left flex">
     <a href="mailto:nurul.islam02310@gmail.com"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
 
 
